@@ -15,7 +15,7 @@ skill:
     percent: 70%
   - name: Design
     percent: 80%
-  - name: IOS Development
-    percent: 95%
-  - name: Andriod Development
+  - name: Engineering
+    percent: 80%
+  - name: Systems Thinking
     percent: 75%
